@@ -1,2 +1,2 @@
 import sys, os
-print("good date")
+print("good date  ")
